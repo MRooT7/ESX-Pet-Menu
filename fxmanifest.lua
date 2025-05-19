@@ -3,7 +3,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'ESX Pet System'
-author 'DeinName'
+author 'M.RooT'
 
 shared_script '@es_extended/imports.lua'
 
