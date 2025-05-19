@@ -1,6 +1,6 @@
 # 🐾 FiveM Advanced Pet System
 
-![Download](https://github.com/MRooT7/ESX-Pet-Menu/releases/tag/fivem)
+[Download](https://github.com/MRooT7/ESX-Pet-Menu/releases/tag/fivem)
 
 A complete pet management system for FiveM servers, featuring realistic pet behaviors and full ESX integration.
 
